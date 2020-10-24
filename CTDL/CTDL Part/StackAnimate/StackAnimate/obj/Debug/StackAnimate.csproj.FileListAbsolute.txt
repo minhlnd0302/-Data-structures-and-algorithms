@@ -1,0 +1,55 @@
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe.config
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\bin\Debug\StackAnimate.pdb
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csprojAssemblyReference.cache
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Stack_Form.resources
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Properties.Resources.resources
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csproj.GenerateResource.cache
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csproj.CoreCompileInputs.cache
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\obj\Debug\StackAnimate.exe
+C:\Users\canlo\source\repos\StackAnimate\StackAnimate\obj\Debug\StackAnimate.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csprojAssemblyReference.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Stack_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Stack_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csprojAssemblyReference.cache
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe.config
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.pdb
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csprojAssemblyReference.cache
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Stack_Form.resources
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Properties.Resources.resources
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csproj.GenerateResource.cache
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.exe
+D:\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.pdb
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe.config
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.pdb
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csprojAssemblyReference.cache
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Stack_Form.resources
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Properties.Resources.resources
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csproj.GenerateResource.cache
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.exe
+D:\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.exe
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\bin\Debug\StackAnimate.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csprojAssemblyReference.cache
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Stack_Form.resources
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.Properties.Resources.resources
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.csproj.GenerateResource.cache
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.exe
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\StackAnimate\StackAnimate\obj\Debug\StackAnimate.pdb

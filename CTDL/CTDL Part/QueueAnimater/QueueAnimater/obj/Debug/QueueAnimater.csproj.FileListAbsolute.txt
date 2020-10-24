@@ -1,0 +1,61 @@
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe.config
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.pdb
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csprojAssemblyReference.cache
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Queue_Form.resources
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Properties.Resources.resources
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.GenerateResource.cache
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.CoreCompileInputs.cache
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.exe
+C:\Users\canlo\source\repos\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.pdb
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe.config
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.pdb
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csprojAssemblyReference.cache
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Queue_Form.resources
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Properties.Resources.resources
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.GenerateResource.cache
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.exe
+D:\Dropbox\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Queue_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Queue_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.pdb
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe.config
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.pdb
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Queue_Form.resources
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Properties.Resources.resources
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.GenerateResource.cache
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.exe
+D:\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.pdb
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe.config
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.pdb
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csprojAssemblyReference.cache
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Queue_Form.resources
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Properties.Resources.resources
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.GenerateResource.cache
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.exe
+D:\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.exe
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\bin\Debug\QueueAnimater.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csprojAssemblyReference.cache
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Queue_Form.resources
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.Properties.Resources.resources
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.csproj.GenerateResource.cache
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.exe
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\QueueAnimater\QueueAnimater\obj\Debug\QueueAnimater.pdb

@@ -1,0 +1,265 @@
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CoreCompileInputs.cache
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\canlo\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CoreCompileInputs.cache
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\Forrm\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\SimpleSearch.LinearSearch.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.Bubble_Sort.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.HeapSort.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.ShellSort.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.QuickSort.resources
+D:\Dropbox\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.MergeSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\SimpleSearch.LinearSearch.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.Bubble_Sort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.HeapSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.MergeSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.QuickSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.ShellSort.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.pdb
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe.config
+C:\Users\lengu\OneDrive\Desktop\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CopyComplete
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\SimpleSearch.LinearSearch.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.Bubble_Sort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.HeapSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.MergeSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.QuickSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.ShellSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CopyComplete
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\SimpleSearch.LinearSearch.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.Bubble_Sort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.HeapSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.MergeSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.QuickSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.ShellSort.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CopyComplete
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.pdb
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe.config
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.pdb
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe.config
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.pdb
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe.config
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.pdb
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe.config
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.pdb
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe.config
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\SimpleSearch.LinearSearch.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.Bubble_Sort.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.HeapSort.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.QuickSort.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.ShellSort.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CopyComplete
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.pdb
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe.config
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.pdb
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe.config
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.pdb
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe.config
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.pdb
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe.config
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.pdb
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe.config
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\SimpleSearch.LinearSearch.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.Bubble_Sort.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.HeapSort.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.QuickSort.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.ShellSort.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CopyComplete
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BalanceTree.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchReproduce.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\BinarySearchTree.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\QueueAnimater.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\bin\Debug\StackAnimate.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csprojAssemblyReference.cache
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Form1.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\LinkedListViewer.LinkedList_Form.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Properties.Resources.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\BinarySearch_Version2.BinarySearch_Form.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\SimpleSearch.LinearSearch.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Search.SearchAlgorithmPicker.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.Bubble_Sort.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.HeapSort.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InsertionSort.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.InterchangeSort.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.QuickSort.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SelectionSort.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.ShellSort.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File__Chinh.Sort.SortAlgorithm.resources
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.GenerateResource.cache
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.csproj.CopyComplete
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.exe
+D:\WinCu\Báo cáo CTDL\CTDL\Cau_Truc_Du_Lieu_File_ Chinh\Cau_Truc_Du_Lieu_File_ Chinh\obj\Debug\Cau_Truc_Du_Lieu_File_ Chinh.pdb

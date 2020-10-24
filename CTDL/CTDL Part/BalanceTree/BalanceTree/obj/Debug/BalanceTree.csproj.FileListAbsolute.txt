@@ -1,0 +1,52 @@
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe.config
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\bin\Debug\BalanceTree.pdb
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\obj\Debug\BalanceTree.AVL_Form.resources
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\obj\Debug\BalanceTree.Properties.Resources.resources
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\obj\Debug\BalanceTree.exe
+C:\Users\Admin\source\repos\BalanceTree\BalanceTree\obj\Debug\BalanceTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csprojAssemblyReference.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.AVL_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.AVL_Form.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL - Copy\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.pdb
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe.config
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.pdb
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.AVL_Form.resources
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.Properties.Resources.resources
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csproj.GenerateResource.cache
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.exe
+D:\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.pdb
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe.config
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.pdb
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csprojAssemblyReference.cache
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.AVL_Form.resources
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.Properties.Resources.resources
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csproj.GenerateResource.cache
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.exe
+D:\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe.config
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.exe
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\bin\Debug\BalanceTree.pdb
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csprojAssemblyReference.cache
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.AVL_Form.resources
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.Properties.Resources.resources
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.csproj.GenerateResource.cache
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.exe
+D:\WinCu\Báo cáo CTDL\CTDL\CTDL Part\BalanceTree\BalanceTree\obj\Debug\BalanceTree.pdb

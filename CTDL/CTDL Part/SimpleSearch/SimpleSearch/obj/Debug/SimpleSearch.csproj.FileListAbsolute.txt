@@ -1,0 +1,19 @@
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\bin\Debug\SimpleSearch.exe.config
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\bin\Debug\SimpleSearch.exe
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\bin\Debug\SimpleSearch.pdb
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.csprojAssemblyReference.cache
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.Properties.Resources.resources
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.csproj.GenerateResource.cache
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.csproj.CoreCompileInputs.cache
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.exe
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.pdb
+C:\Users\canlo\source\repos\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.LinearSearch.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\bin\Debug\SimpleSearch.exe.config
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\bin\Debug\SimpleSearch.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\bin\Debug\SimpleSearch.pdb
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.csprojAssemblyReference.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.LinearSearch.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.Properties.Resources.resources
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.csproj.GenerateResource.cache
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.exe
+C:\Users\lengu\OneDrive\Desktop\CTDL\CTDL Part\SimpleSearch\SimpleSearch\obj\Debug\SimpleSearch.pdb
